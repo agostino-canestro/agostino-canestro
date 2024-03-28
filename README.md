@@ -2,6 +2,8 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
+- <b>[SOC Automation Suite](https://github.com/agostino-canestro/SOC-Automation-Lab)</b>
+- <b>[Active Directory Attack Lab](https://github.com/agostino-canestro/Active-Directory-Attack-Lab)</b>
 - <b>[Malware Analysis Sandbox](https://github.com/agostino-canestro/Malware-Analysis-Sandbox)</b>
 
 <h2>📝 Certifications:</h2>
