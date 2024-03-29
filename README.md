@@ -4,6 +4,7 @@
 
 - <b>[SOC Automation Suite](https://github.com/agostino-canestro/SOC-Automation-Lab)</b>
 - <b>[Active Directory Attack Lab](https://github.com/agostino-canestro/Active-Directory-Attack-Lab)</b>
+- <b>[Endpoint Analysis](https://github.com/agostino-canestro/Endpoint-Analysis/)</b>
 - <b>[Malware Analysis Sandbox](https://github.com/agostino-canestro/Malware-Analysis-Sandbox)</b>
 
 <h2>📝 Certifications:</h2>
