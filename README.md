@@ -10,8 +10,10 @@
 <h2>📝 Certifications:</h2>
 
 <ul>
+  <li>CompTIA Advanced Security Practitioner (CASP+)</li>
+  <li>CompTIA Cybersecurity Analyst+ (CySA+)</li>
+  <li>CompTIA Pentest+</li>
   <li>CompTIA Security+</li>
   <li>CompTIA Network+</li>
-  <li>CompTIA Pentest+</li>
-  <li>CompTIA CySA+</li>
+  <li>Microsoft Azure Fundamentals (AZ-900)</li>
 </ul>
